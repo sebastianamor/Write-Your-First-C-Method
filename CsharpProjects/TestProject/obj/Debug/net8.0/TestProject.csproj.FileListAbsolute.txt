@@ -1,0 +1,15 @@
+E:\Write Your First C# Method\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+E:\Write Your First C# Method\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+E:\Write Your First C# Method\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+E:\Write Your First C# Method\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+E:\Write Your First C# Method\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+E:\Write Your First C# Method\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
